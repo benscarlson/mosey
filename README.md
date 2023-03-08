@@ -1,3 +1,5 @@
+# mosey
+
 # What is mosey?
 
 Mosey is an integrated set of tools that allows you to work with large animal movement datasets. Implemented in R and command-line ready, mosey downloads data directly from [Movebank](https://www.movebank.org) and stores it in a relational database. Browse the data on a map, extract environmental data using [Google Earth Engine](https://developers.google.com/earth-engine/datasets), or access the database in your R analysis scripts.
