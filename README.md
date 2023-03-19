@@ -1,6 +1,4 @@
----
-title: mosey
----
+
 
 # What is mosey?
 
