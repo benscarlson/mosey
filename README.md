@@ -1,4 +1,3 @@
-# mosey
 
 ![mosey system cartoon](/docs/assets/images/mosey_cartoon.png)
 
