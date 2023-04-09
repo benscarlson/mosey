@@ -44,7 +44,7 @@ image of the tables of a mosey database & sqlite icon
 
 ## mosey_env
 
-[mosey_env](https://github.com/benscarlson/mosey_env) allows you to extract environmental data using any datasets available on Google Earth Engine. In addition, and unique to other environmental annotation systems, in Earth Engine you can create new, custom layers and dynamically extract environmental data, without having to export the rasters first. For example, a global, monthly distance-to-water time-seres based on the JRC dataset is not currently available on any annoation system and would be far to large to export and store. Using mosey_env, you can dynamically create the layer and annotate in the same operation, which means there is no need to export the rasters first. 
+[mosey_env](https://github.com/benscarlson/mosey_env) allows you to extract environmental data using any datasets available on Google Earth Engine. In addition, and unique to other environmental annotation systems, in Earth Engine you can create new, custom layers and dynamically extract environmental data, without having to export the rasters first. For example, a global, monthly distance-to-water time-series based on the JRC dataset is not currently available on any annotation system and would be far to large to export and store. Using mosey_env, you can dynamically create the layer and annotate in the same operation, which means there is no need to export the rasters first. 
 
 image of earth engine logo, picture of a raster
 
