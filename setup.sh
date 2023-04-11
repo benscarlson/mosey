@@ -19,6 +19,8 @@ bundle add webrick
 
 #---- Run jekyll ----
 
+cd ~/projects/mosey/src
+
 #Seems jekyll serve does all the parsing before serving the web page  
 bundle exec jekyll serve
 
